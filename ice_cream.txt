@@ -1,0 +1,22 @@
+catagory    Item                 Price
+   
+Cone Type   Plain Cone            1.5
+            Waffle Cone            2
+            Cup                    1
+            
+Scoop       Vanilla                5
+Flavours    Strawberry             5
+            Chocolate              5
+            Caramel                5
+            Mint                   5
+            Rainbow                5
+            Coffee                 5
+            Bubble gum             5
+
+Topping     Peanuts               0.75
+choices     Caramel Sauce         0.5
+            Rainbow Sprinkles     0.5
+            Pecan                  1
+            Chocolate Sprinkles   0.5
+    
+          
